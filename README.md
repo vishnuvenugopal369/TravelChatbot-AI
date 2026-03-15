@@ -67,4 +67,4 @@ TravelChatbot-AI
 
 ---
 
-MSc Artificial Intelligence Student – Berlin
+MSc Artificial Intelligence Student
